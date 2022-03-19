@@ -6,4 +6,5 @@ namespace assignment {
 
   DoubleNode::DoubleNode(int value, Node *prev, Node *next) : value{value}, prev{prev}, next{next} {}
 
+
 }  // namespace classwork
